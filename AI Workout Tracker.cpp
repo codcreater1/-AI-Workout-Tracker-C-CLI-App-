@@ -6,6 +6,11 @@
 #include <map>
 #include <algorithm>
 
+
+
+
+
+ 
 struct Exercise {
     std::string name;
     std::string muscleGroup;
@@ -195,3 +200,4 @@ int main() {
 
     return 0;
 }
+
